@@ -1,0 +1,18 @@
+{
+  "name": "chartjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AAWA-byt",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}

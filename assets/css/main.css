@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+    background-color: #151728;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    position: absolute;
+    left: 21%
+}
+
+.chart-container {
+    max-height: 300px;
+    max-width: 800px;
+    position: relative;
+}
+
+
+#survey {
+    height: 200px;
+    width: 600px;
+    position: absolute;
+    top: 25%;
+}
