@@ -17,6 +17,9 @@ Now you should see this page.
 
 The source of this survey data is [statista.com](https://www.statista.com).
 
+## Help
+If there should be any problems please leave an [issue](https://github.com/AAWA-byt/express-app-chart.js/issues) and I will look forward to help you.
+
 # Authors
 - [AAWA-byt](https://github.com/AAWA-byt)
 
