@@ -8,7 +8,7 @@ An example of a little express app that renders an html file with [Chart.js](htt
 To use this project you need to install Node.js on your device.
 
 ## Clone Project
-Clone the project or download the project form the [release page](https://github.com/AAWA-byt/express-app-chart.js/releases).
+Clone the project or download the project from the [release page](https://github.com/AAWA-byt/express-app-chart.js/releases).
 Now enter the config.json and put in the port which the app should run at.
 After that you have to run the **main.js** with Node.js. Open your browser and type in **localhost:your-port**.
 Now you should see this page.
